@@ -27,7 +27,7 @@ Ensure that your project has the following structure
 │   ├── CMakeLists.txt
 │   └── main.cpp
 ├── README.md
-└── sdkconfig
+├── sdkconfig
 └ ...
 ```
 
